@@ -1,0 +1,22 @@
+[{  
+    "text":"Provide an example of a web application that you've built and what technologies were used to build it. What considerations did you make when deciding on the techstack to use?",
+    "id":"1",
+    "required":true,
+    "type":"text"
+    },{  
+    "text":"How old are you?",
+    "id":"2",
+    "required":true,
+    "type":"number"
+    },{  
+    "text":"What do you think about this survey?",
+    "id":"3",
+    "required":false,
+    "type":"text"
+    },{  
+    "text":"What's your email",
+    "id":"4",
+    "required":false,
+    "type":"email"
+    }
+]
